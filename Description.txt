@@ -1,0 +1,5 @@
+# ScatterTool_PythonForMaya
+Scatter Tool for use in Maya 2018
+
+This tool allows the user to scatter an object on the selected vertices or faces. It returns an error message when the user submits the wrong data or doesn't submit
+anything at all, and its GUI scales depending on the needs of the user. 
